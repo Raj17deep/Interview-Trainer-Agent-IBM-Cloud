@@ -39,7 +39,7 @@ The project leverages IBM's watsonx.ai platform for prompt engineering, large la
   Screenshots and visuals showing the agent UI, deployment, and configuration.
 
 - `ibm skillsbuild certifications/`  
-  Related IBM SkillsBuild certifications (if provided).
+  Related IBM SkillsBuild certifications.
 
 - `preview results' images/`  
   Additional result preview images.
