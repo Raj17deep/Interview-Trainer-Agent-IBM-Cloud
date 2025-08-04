@@ -49,12 +49,6 @@
    - Follow the instructions in the notebook to deploy and interact with the interview agent.
    - Customize interview questions or feedback logic as desired.
 
-## Repository Structure
-
-- `notebooks/` – Main Jupyter Notebooks for agent logic and demonstration.
-- `requirements.txt` – Python dependencies (if applicable).
-- `README.md` – Project documentation.
-
 ## Contribution
 
 Contributions are welcome! Please open issues or submit pull requests for suggestions, improvements, or bug fixes.
